@@ -1,5 +1,6 @@
 package lotr;
 
+
 public abstract class Character {
     protected int power;
     protected int hp;
